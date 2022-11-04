@@ -3,6 +3,6 @@ global class MyService {
     @HttpGet
     global static String doGet() {
         
-        return 'get Service Webhook Service';
+        return 'get Service Webhook';
     }
 }
